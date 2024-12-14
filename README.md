@@ -18,5 +18,6 @@ This project demonstrates a simple registration system built using PHP, MySQL, a
 ### License
 - This project is licensed under the MIT License.
 
-## ATTENTION
-- There is no Hack code there is only php and sql
+### ATTENTION
+**Note**: This project is written entirely in PHP and MySQL. The Hack language is not used in this repository.
+
