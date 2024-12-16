@@ -15,6 +15,10 @@ This project demonstrates a simple registration system built using PHP, MySQL, a
 - MySQL 5.7 or higher
 - A web server (e.g., Apache or Nginx)
 
+##### If you created your web server here is some hosts.
+- localhost:8888
+- localhost:8888/phpmyadmin
+
 ### License
 - This project is licensed under the MIT License.
 
